@@ -1,0 +1,33 @@
+name: fntshopping
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/fntshopping/assets/images/ellipse31.png
+    - packages/fntshopping/assets/images/product5.png
+    - packages/fntshopping/assets/images/boarding6.png
+    - packages/fntshopping/assets/images/home5.png
+    - packages/fntshopping/assets/images/notification2.png
+    - packages/fntshopping/assets/images/congrats1.png
+    - packages/fntshopping/assets/images/order1.png
+    - packages/fntshopping/assets/images/profile1.png
+    - packages/fntshopping/assets/images/review1.png
+    - packages/fntshopping/assets/images/checkout1.png
+    - packages/fntshopping/assets/images/checkout2.png
+    - packages/fntshopping/assets/images/cart1.png
+    - packages/fntshopping/assets/images/shippingaddress1.png
+    - packages/fntshopping/assets/images/favorite1.png
