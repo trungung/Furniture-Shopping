@@ -1,0 +1,68 @@
+name: shopping
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/shopping/assets/images/ellipse31.png
+    - packages/shopping/assets/images/product5.png
+    - packages/shopping/assets/images/boarding6.png
+    - packages/shopping/assets/images/home5.png
+    - packages/shopping/assets/images/notification2.png
+    - packages/shopping/assets/images/congrats1.png
+    - packages/shopping/assets/images/order1.png
+    - packages/shopping/assets/images/profile1.png
+    - packages/shopping/assets/images/review1.png
+    - packages/shopping/assets/images/checkout1.png
+    - packages/shopping/assets/images/checkout2.png
+    - packages/shopping/assets/images/cart1.png
+    - packages/shopping/assets/images/shippingaddress1.png
+    - packages/shopping/assets/images/favorite1.png
+    - packages/shopping/assets/images/rectangle.png
+    - packages/shopping/assets/images/combinedshape.png
+    - packages/shopping/assets/images/wifi.png
+    - packages/shopping/assets/images/vector.svg
+    - packages/shopping/assets/images/26818261.png
+    - packages/shopping/assets/images/jonnycaspariwsvcc6uykjsunsplash1.png
+    - packages/shopping/assets/images/nathandumlaogkyru8olw2cunsplash1.png
+    - packages/shopping/assets/images/ellipse33.png
+    - packages/shopping/assets/images/39689011.png
+    - packages/shopping/assets/images/star3.svg
+    - packages/shopping/assets/images/39690081.png
+    - packages/shopping/assets/images/group.svg
+    - packages/shopping/assets/images/risearch2line.svg
+    - packages/shopping/assets/images/star1.svg
+    - packages/shopping/assets/images/bed1.svg
+    - packages/shopping/assets/images/sarahdorweilerfr0j5givygunsplash1.png
+    - packages/shopping/assets/images/shape.png
+    - packages/shopping/assets/images/vector1.svg
+    - packages/shopping/assets/images/checkmarkcirclefill.svg
+    - packages/shopping/assets/images/shoppingbagiconactivated.svg
+    - packages/shopping/assets/images/ellipse27.png
+    - packages/shopping/assets/images/ellipse26.png
+    - packages/shopping/assets/images/ellipse24.png
+    - packages/shopping/assets/images/ellipse28.png
+    - packages/shopping/assets/images/ellipse25.png
+    - packages/shopping/assets/images/ellipse29.png
+    - packages/shopping/assets/images/ellipse30.png
+    - packages/shopping/assets/images/iconolor.png
+    - packages/shopping/assets/images/edit2.svg
+    - packages/shopping/assets/images/iconolor.svg
+    - packages/shopping/assets/images/iconolor2.svg
+    - packages/shopping/assets/images/group6.svg
+    - packages/shopping/assets/images/logout.svg
+    - packages/shopping/assets/images/vector2.svg
